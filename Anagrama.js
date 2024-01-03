@@ -35,3 +35,5 @@ function isAnagrams(word1, word2) {
     // Las palabras son anagramas
     return true;
   }
+
+/*By: deca */
